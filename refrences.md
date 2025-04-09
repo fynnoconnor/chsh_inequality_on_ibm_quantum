@@ -8,6 +8,7 @@ Richard A. Holt
 Phys. Rev. Lett. 23, 880 – Published 13 October, 1969Erratum Phys. Rev. Lett. 24, 549 (1970)
 
 DOI: https://doi.org/10.1103/PhysRevLett.23.880 
+
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.23.880
 
 ### A description of the angle optimisation method
